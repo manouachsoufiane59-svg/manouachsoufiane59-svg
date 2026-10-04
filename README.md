@@ -6,7 +6,7 @@ Mes projets portent sur l’analyse économique et économétrique, le web scrap
 
 ## Mes projets
 
-- [Commerce sur les réseaux sociaux](https://github.com/manouachsoufiane59-svg/commerce-reseaux-sociaux) — étude des impacts économiques du commerce sur les plateformes sociales.
+- [Commerce sur les réseaux sociaux](https://github.com/manouachsoufiane59-svg/commerce-reseaux-sociaux) - étude des impacts économiques du commerce sur les plateformes sociales.
 - [Aération des logements](https://github.com/manouachsoufiane59-svg/determinants-aeration-logements) — étude économétrique réalisée avec R.
 - [Gamezone](https://github.com/manouachsoufiane59-svg/gamezone-reservation-php-mysql) — prototype de réservation d’activités en PHP et MySQL.
 - [Web scraping de La Liga](https://github.com/manouachsoufiane59-svg/scraping-classement-laliga) — script Python qui récupère des données et génère une page HTML.
