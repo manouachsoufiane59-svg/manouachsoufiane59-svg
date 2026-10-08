@@ -10,7 +10,7 @@ Mes projets portent sur l’analyse économique et économétrique, le web scrap
 - [Aération des logements](https://github.com/manouachsoufiane59-svg/determinants-aeration-logements) — étude économétrique réalisée avec R.
 - [Gamezone](https://github.com/manouachsoufiane59-svg/gamezone-reservation-php-mysql) — prototype de réservation d’activités en PHP et MySQL.
 - [Web scraping de La Liga](https://github.com/manouachsoufiane59-svg/scraping-classement-laliga) — script Python qui récupère des données et génère une page HTML.
-- [Analyse du catalogue Netflix](https://github.com/TON_PSEUDO/netflix-data-analysis)
+- [Analyse du catalogue Netflix](https://github.com/manouachsoufiane59-svg/netflix-data-analysis)
 Évolution du catalogue et concentration de l'offre par pays (indice HHI).
 Outils : Python, pandas.
 - [Bornes de recharge sur un campus](https://github.com/manouachsoufiane59-svg/bornes-recharge-campus) — étude de faisabilité économique et financière.
